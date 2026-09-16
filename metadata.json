@@ -1,0 +1,6 @@
+{
+  "name": "Talabalar Bilimini Baholash va Ilmiy Maqola Xizmatlari",
+  "description": "Oliy ta’lim talabalari uchun fanlarni o‘rganish, bir martalik test topshirish, avtomatik baholash, 6 oylik obuna va ilmiy maqola buyurtma xizmati platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
